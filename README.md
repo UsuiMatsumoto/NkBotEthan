@@ -7,10 +7,10 @@
 </div>
 <br>
 <p align="center">
-<a href="https://tinyurl.com/Onichan7w7r"><img title="WhatsApp-Bot-MD" src="https://img.shields.io/badge/-WHATSAPP--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://tinyurl.com/Script-NK-BOT"><img title="WhatsApp-Bot-MD" src="https://img.shields.io/badge/-WHATSAPP--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://tinyurl.com/2p9kb7yd"><img title="Autor" src="https://img.shields.io/badge/Autor-Matt_M-orange?style=for-the-badge&logo=github"></a>
+<a href="https://tinyurl.com/Neo-Kosmo"><img title="Autor" src="https://img.shields.io/badge/Autor-Matt_M-orange?style=for-the-badge&logo=github"></a>
 </p>
 </details>
 </p>
@@ -36,6 +36,7 @@
 | Chat-Bot|✔️|
 | Botones clásicos|✔️|
 | Random commands|✔️|
+| Anti-Soporte(suspension)|⁉️|
 | NSFW|🔞|
 | Más funciones en adelante|♻️|
 
@@ -60,7 +61,7 @@ Para nuevos desde cero en termux.apk:
 ## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
 ```bash
 > git clone [URL_DEL_REPOSITORIO_ACTUAL] 
-> cd NK-BOT-MD
+> cd nk-bot-md
 > yarn
 > npm start
 
@@ -71,14 +72,13 @@ Para detener al bot en termux:
 # 🔥 Ejecutar el bot 24/7 
 - Es aconsejable que crees una carpeta llamada "./sesiones/", luego subas el archivo de "creds.json" ya activado, para ya no tener que escanear otro código QR x'd
 
-## Desplegable en Railway & Heroku
+## Desplegable en Railway & Replit 
 - Railway => https://railway.app/new/template?template=URL_del_repositorio_actual
-
-- Heroku => https://heroku.com/deploy?template=URL_del_repositorio_actual
+- Replit => https://replit.com/@NeKosmic/NK-BOT-MD?v=1 
 
 # ⚡ Necesitas ayuda?, Aquí tienes mi WhatsApp :3
 
-<a href="https://wa.me/51995386439"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/51991378809 "><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 # 🗿 Agradecido con el de arriba y a estos cracks :3
 
