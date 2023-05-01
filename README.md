@@ -20,6 +20,7 @@
 | :---------------------------------------------: | :-----------: |
 | Crea stickers|✔️|
 | Bienvenida automática|✔️|
+| Multi Idioma|✔️|
 | Anti-Link|✔️|
 | Anti-Fakes|✔️|
 | Jadibot-vBeta|✔️|
