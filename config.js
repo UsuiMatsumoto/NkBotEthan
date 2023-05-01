@@ -41,7 +41,7 @@ global.APIKeys = {
   'https://website': 'apikey'
 }
 
-global.multiplier = 999
+global.multiplier = 111
 
 global.rpg = {
   emoticon(string) {
