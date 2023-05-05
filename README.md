@@ -35,9 +35,7 @@
 | Juegos|✔️|
 | Descarga de música/videos|✔️|
 | Chat-Bot|✔️|
-| Botones clásicos|✔️|
 | Random commands|✔️|
-| Anti-Soporte(suspension)|⁉️|
 | NSFW|🔞|
 | Más funciones en adelante|♻️|
 
