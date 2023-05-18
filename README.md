@@ -12,12 +12,15 @@
                             <p>
                                 <a href="https://tinyurl.com/Neo-Kosmo"><img title="Autor" src="https://img.shields.io/badge/Autor-@NeKosmic-orange?style=for-the-badge&logo=github" alt="Autor" /></a>
                                   </p>
-                                  
+                                  </div>
+
+<center>
 
 # 📖 Características del bot 
-|  Funciones y comandos  |                                           Sip |
-| :---------------------------------------------: | :-----------: |
-| Crea stickers|✔️|
+
+|  Funciones y comandos  |  Si/No/Talvez  |
+| :--------------------: | :---: |
+|    Crea stickers       |  ✔️   |
 | Bienvenida automática|✔️|
 | Multi Idioma|✔️|
 | Anti-Link|✔️|
@@ -38,7 +41,7 @@
 | NSFW|🔞|
 | Más funciones en adelante|♻️|
 
-</div>
+</center>
 
 <details>
 <summary>🪀 Este bot esta desarrollado en JavaScript y es compatible con cualquier servicio de Node.js para su ejecución: 
