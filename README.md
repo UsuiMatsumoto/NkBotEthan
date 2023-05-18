@@ -12,7 +12,6 @@
                             <p>
                                 <a href="https://tinyurl.com/Neo-Kosmo"><img title="Autor" src="https://img.shields.io/badge/Autor-@NeKosmic-orange?style=for-the-badge&logo=github" alt="Autor" /></a>
                                   </p>
-                                  </div>
                                   
 
 # 📖 Características del bot 
@@ -38,6 +37,8 @@
 | Random commands|✔️|
 | NSFW|🔞|
 | Más funciones en adelante|♻️|
+
+</div>
 
 <details>
 <summary>🪀 Este bot esta desarrollado en JavaScript y es compatible con cualquier servicio de Node.js para su ejecución: 
