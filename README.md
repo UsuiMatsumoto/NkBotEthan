@@ -1,19 +1,19 @@
-<h1 align="center">♻️ NK-BOT-MD ♻️</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Simple+WhatsApp+Bot+Multidevice+nwn;Gracias+por+usar+este+bot+my+king+%3A3;%5B+How+sexy+are+you+7w7r+%5D_" alt="Typing SVG">
-  </p>
-
-  <p align="center">
-    <img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" alt="GIF" width="400" height="230">
-    </p>
-
-<p align="center">
-    <a href="https://tinyurl.com/Script-NK-BOT"><img title="WhatsApp-Bot-MD" src="https://img.shields.io/badge/-WHATSAPP--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" alt="WhatsApp Bot MD" /></a>
-    </p>
-    <p align="center">
-        <a href="https://tinyurl.com/Neo-Kosmo"><img title="Autor" src="https://img.shields.io/badge/Autor-@NeKosmic-orange?style=for-the-badge&logo=github" alt="Autor" /></a>
-        </p>
+<div align="center">
+  <h1>♻️ NK-BOT-MD ♻️</h1>
+    <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Simple+WhatsApp+Bot+Multidevice+nwn;Gracias+por+usar+este+bot+my+king+%3A3;%5B+How+sexy+are+you+7w7r+%5D_" alt="Typing SVG">
+          </p>
+            <p>
+                <img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" alt="GIF" width="400" height="230">
+                  </p>
+                    <p>
+                        <a href="https://tinyurl.com/Script-NK-BOT"><img title="WhatsApp-Bot-MD" src="https://img.shields.io/badge/-WHATSAPP--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" alt="WhatsApp Bot MD" /></a>
+                          </p>
+                            <p>
+                                <a href="https://tinyurl.com/Neo-Kosmo"><img title="Autor" src="https://img.shields.io/badge/Autor-@NeKosmic-orange?style=for-the-badge&logo=github" alt="Autor" /></a>
+                                  </p>
+                                  </div>
+                                  
 
 # 📖 Características del bot 
 |  Funciones y comandos  |                                           Sip |
