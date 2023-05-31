@@ -2,7 +2,7 @@
     deps = [
         pkgs.nodejs
         pkgs.nodePackages.typescript
-        pkgs.ffmpeg
+        pkgs.ffmpeg-full
         pkgs.imagemagick
         pkgs.git
         pkgs.neofetch
