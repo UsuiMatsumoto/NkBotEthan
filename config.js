@@ -16,8 +16,8 @@ const dPkg = require(join(__dirname, './package.json'))
 //globals ._.
 global.MultiIdioma = [true, ""] //[true, ""] = Multi Idioma automático; [false, "es"] = Un solo idioma predefinido "es", "en", "id", "pt" 
 global.Propietario = dPkg.author.name
-global.OwnerNum = '51991378809'
-global.PaisPrefix = '51'
+global.OwnerNum = '17278591959'
+global.PaisPrefix = '1'
 global.Prefijo = '.'
 global.MyApiKey = 'nekosmic' //zzz
 global.NombreDelBot = 'NK-BOT' //vMD
